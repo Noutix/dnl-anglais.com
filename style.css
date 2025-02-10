@@ -1,0 +1,12 @@
+body {
+    background-image: url("https://www.factinate.com/storage/app/media/factinate/2024/12/9/lionheart-MSN-1024x607.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+  }
+  h3 {
+    font-size: 20px;
+    font-family: Times New Roman, serif;
+    color: white;
+}
